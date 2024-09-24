@@ -1,4 +1,3 @@
-![WhatsApp Image 2024-09-24 at 11 29 29_01e4fae0](https://github.com/user-attachments/assets/8f1972e2-7775-400f-8783-1ddee84f3deb)# Object-detection-using-web-camera
 ## AIM:
 To detect Object using web camera
 
